@@ -1,1 +1,10 @@
-hola
+html{
+	background-color: black;
+}
+h1{
+	color: lightblue;
+}
+p{
+	text-align: right;
+	color: yellowgreen;
+}
